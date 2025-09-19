@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "@types/mathjs": "^6.0.1",
-    "mathjs": "^6.0.4"
+    "mathjs": "^14.7.0"
   },
   "devDependencies": {
     "@siteimprove/alfa-test": "^0.0.1"
